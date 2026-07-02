@@ -3,8 +3,8 @@ print("Lia Asryan", end ="\n \n")
 
 print("[background information]")
 
-x = 10
-y = 20
-print(x+y)
+num1 = 10
+num2 = 20
+print(num1+num2)
 
 # comment
